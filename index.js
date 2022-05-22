@@ -17,6 +17,7 @@ const winningConditions = [
   [2, 4, 6],
   ]; 
   
+  
 let currentPlayer = players[1];
 const winningMessage = `Vitória do jogador ${currentPlayer}!`;
 const tieMessage = `DEU VELHA!`;
